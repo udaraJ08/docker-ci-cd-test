@@ -98,7 +98,7 @@ const Yamazumi = () => {
 
     return <div className="p-0 w-100 mt-5">
         <div>
-            <p className="f-Staatliches text-primary text-large">Memory chart</p>
+            <p className="f-Staatliches text-primary text-large">Memory chartss</p>
         </div>
         <div>
             <div className="recharts-wrapper" style={{height: '100vh'}}>

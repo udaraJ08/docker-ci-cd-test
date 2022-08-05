@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  front-end:
+    build: .
+    container_name: react-test-container
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/app
+      - ./app/node_modules
